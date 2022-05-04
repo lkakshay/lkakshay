@@ -31,3 +31,15 @@ Link to my [Portfolio Website](https://lk-portfolio.vercel.app/).
 <p><a href="https://www.linkedin.com/in/lkakshay/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></a> <a href="mailto:connectme.lkakshay@gmail.com
 " target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+
+<br/>
+<h2 align="left">👷 Stats so far</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lkakshay&show_icons=true&locale=en&layout=compact" alt="lkakshay" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lkakshay&show_icons=true&locale=en" alt="lkakshay" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lkakshay&" alt="lkakshay" /></p>
+
+<br/>
+<br/>
